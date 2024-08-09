@@ -1,1 +1,2 @@
-# wangnq111.github.io
+# get started
+[color_scheme](color_scheme.html)
