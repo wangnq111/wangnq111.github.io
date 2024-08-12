@@ -6,3 +6,5 @@
 [Community Feature analysis](Analysis.html)
 
 [Differential Analysis](differential.html)
+
+[Network Analysis](network.html)
